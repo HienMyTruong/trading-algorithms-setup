@@ -1,0 +1,97 @@
+
+ˆirritext.scala*$
+_empty_/irritext.
+ *irritext€*/
+_empty_/irritext.printDead().*	printDead€*3
+_empty_/irritext.printSolved().*printSolved€*6
+'_empty_/irritext.printSolved().(points)*points€*C
+'_empty_/irritext.printWelcomeMessage().*printWelcomeMessage€*1
+_empty_/irritext.doorChoice().*
+doorChoice€*,
+_empty_/irritext.isDead(). €*isDead€*2
+_empty_/irritext.`isDead_=`(). €*isDead_=€*/
+#_empty_/irritext.`isDead_=`().(x$1)*x$1€*0
+_empty_/irritext.isSolved(). €*isSolved€*6
+ _empty_/irritext.`isSolved_=`(). €*
+isSolved_=€*1
+%_empty_/irritext.`isSolved_=`().(x$1)*x$1€*,
+_empty_/irritext.points(). €*points€*2
+_empty_/irritext.`points_=`(). €*points_=€*/
+#_empty_/irritext.`points_=`().(x$1)*x$1€*%
+_empty_/irritext.play().*play€*
+local0 €*door€*#
+_empty_/irritext.run().*run€*
+_empty_/run# *run€*)
+_empty_/run#`<init>`(). €@*<init>€*#
+_empty_/run#main(). € *main€*&
+_empty_/run#main().(args)*args€*
+local1 €*error€2
+ _empty_/irritext.2*
+  scala/io/StdIn#readLine(+1).2(
+  scala/io/StdIn#readLine().2
+ scala/io/StdIn.2
+ 	scala/io/2
+	 scala/2+
+ _empty_/irritext.printDead().2
+ scala/Unit#2'
+ !scala/Predef.println(+1).2-
+ _empty_/irritext.printSolved().25
+ '_empty_/irritext.printSolved().(points)2
+ 
+scala/Int#2
+  $scala/Unit#2'
+' .scala/Predef.println(+1).2&
+O Pscala/StringContext#s().2*
+1 1scala/StringContext.apply().25
+B H'_empty_/irritext.printSolved().(points)25
+ '_empty_/irritext.printWelcomeMessage().2
+ !scala/Unit#2'
+$ +scala/Predef.println(+1).29
+ +scala/collection/StringOps#stripMargin(+1).2+
+, ,scala/Predef.augmentString().2,
+ _empty_/irritext.doorChoice().2"
+ scala/Predef.String#2*
+ %scala/io/StdIn#readLine(+1).2(
+ _empty_/irritext.isDead().2*
+ _empty_/irritext.isSolved().2(
+ _empty_/irritext.points().2&
+ 
+_empty_/irritext.play().2
+ scala/Unit#2#
+ scala/Boolean#`&&`().2(
+ scala/Boolean#`unary_!`().2(
+ _empty_/irritext.isDead().2(
+ scala/Boolean#`unary_!`().2*
+ _empty_/irritext.isSolved().2
+
+ local02"
+ scala/Predef.String#2,
+ #_empty_/irritext.doorChoice().2.
+ $ java/lang/String#startsWith(+1).2/
+ !java/lang/String#toLowerCase(+1).2
+	 local02'
+ scala/Predef.println(+1).2.
+  _empty_/irritext.`isSolved_=`().2.
+ ) java/lang/String#startsWith(+1).2/
+ !java/lang/String#toLowerCase(+1).2
+ local02'
+ scala/Predef.println(+1).2,
+ _empty_/irritext.`isDead_=`().2'
+ scala/Predef.println(+1).2,
+ _empty_/irritext.`points_=`().2 
+ scala/Int#`+`(+4).2(
+ _empty_/irritext.points().2
+   scala/main#2%
+!! 	_empty_/irritext.run().2
+!! scala/Unit#25
+"" '_empty_/irritext.printWelcomeMessage().2&
+## _empty_/irritext.play().2(
+$$ _empty_/irritext.isDead().2+
+$$ _empty_/irritext.printDead().2-
+$$$ /_empty_/irritext.printSolved().2(
+$0$ 6_empty_/irritext.points().2
+   _empty_/run#2%
+   _empty_/run#`<init>`().2%
+   _empty_/irritext.run().27
+   )scala/util/CommandLineParser.showError().2
+   local1PZ 9120F51D7938BE7E18ECB500ACB2B99A
