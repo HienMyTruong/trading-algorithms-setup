@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/hientruong/Documents/myProjects/workspace/trading-algorithms/src/main/scala/Stocks.scala:1:7 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m1 |[0m[33mimport[0m breeze.*[0m
+[0m[[0m[31merror[0m] [0m[0m  |       [31m^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |       Not found: breeze[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /Users/hientruong/Documents/myProjects/workspace/trading-algorithms/src/main/scala/Secret.scala:23:7 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m23 |[0m    io.Source.fromURL(url).mkString[0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |    value Source is not a member of org.apache.spark.io[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/hientruong/Documents/myProjects/workspace/trading-algorithms/src/main/scala/Secret.scala:25:13 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m25 |[0m  [33mval[0m [36mdata[0m = spark.get()[0m
+[0m[[0m[31merror[0m] [0m[0m   |             [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |             Not found: spark[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
